@@ -57,7 +57,7 @@ export const Footer: FC = () => {
               target="_blank"
               className="text-white text-base font-bold hover:text-primary-dark transition-all duration-200"
             >
-              Solana
+              SuperteamNg bounty
             </a>
           </div>
         </div>
