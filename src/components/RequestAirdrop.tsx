@@ -37,7 +37,7 @@ export const RequestAirdrop: FC = () => {
         onClick={onClick}
         disabled={!publicKey}
       >
-        <span>Airdrop 1 </span>
+        {<span>Thank you</span>}
       </button>
     </div>
   );
